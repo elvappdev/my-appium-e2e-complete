@@ -1,0 +1,15 @@
+{
+  "name": "my-appium-e2e",
+  "version": "1.0.0",
+  "description": "End-to-end Appium test project",
+  "scripts": {
+    "test": "mocha tests/*.test.js"
+  },
+  "dependencies": {
+    "appium": "^2.0.0",
+    "wd": "^1.12.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
