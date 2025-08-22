@@ -1,25 +1,25 @@
 # My Appium E2E Test Project.
 
-## 📦 Установка
+## 📦 Installation
 
-### Для Windows
+### For Windows
 ```
 install.bat
 ```
 
-### Для macOS/Linux
+### For macOS/Linux
 ```
 chmod +x install.sh
 ./install.sh
 ```
 
-## 🚀 Запуск
+## 🚀 Launch
 ```
 npm test
 ```
 
-## ⚙️ Требования
+## ⚙️ Requirements
 - Node.js
 - Appium
 - Android SDK
-- Устройство или эмулятор Android
+- Android device or emulator
