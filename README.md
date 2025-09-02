@@ -1,4 +1,4 @@
-# My Appium E2E Test Project
+# My Appium E2E Test Project.
 
 ## 📦 Installation
 
